@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Ipswich Town goalkeeper jersey">
+  <defs>
+<clipPath id="clipgkips"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C13 52 13 58 14 62 C14 66 15 71 16 74 C19 76 22 76 23 73 C24 68 24 63 25 58 C25 53 26 49 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 49 74 53 75 58 C76 63 76 68 77 73 C78 76 81 76 84 74 C85 71 86 66 86 62 C87 58 87 52 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+<linearGradient id="sheengkips" x1="0%" y1="0%" x2="60%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+  <stop offset="30%" stop-color="#ffffff" stop-opacity="0.04"/>
+  <stop offset="70%" stop-color="#000000" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+</linearGradient>
+<radialGradient id="chestgkips" cx="50%" cy="26%" r="36%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.14"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowgkips" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<pattern id="weavegkips" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="3.2" stroke="#000000" stroke-width="0.5" opacity="0.05"/>
+</pattern>
+</defs>
+  <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowgkips)"/>
+  <rect x="0" y="0" width="100" height="100" fill="#4DC7B8" clip-path="url(#clipgkips)"/>
+  
+  <path d="M8 -4 L15 18 L6 36 L17 58 L9 80 L14 108" fill="none" stroke="#E7FFF3" stroke-width="1.1" opacity="0.38" stroke-linejoin="round" clip-path="url(#clipgkips)"/><path d="M28 -4 L20 18 L31 38 L21 60 L29 82 L23 108" fill="none" stroke="#E7FFF3" stroke-width="1.1" opacity="0.38" stroke-linejoin="round" clip-path="url(#clipgkips)"/><path d="M50 -4 L57 20 L43 40 L54 60 L44 82 L51 108" fill="none" stroke="#E7FFF3" stroke-width="1.1" opacity="0.38" stroke-linejoin="round" clip-path="url(#clipgkips)"/><path d="M72 -4 L64 18 L75 38 L65 60 L73 82 L67 108" fill="none" stroke="#E7FFF3" stroke-width="1.1" opacity="0.38" stroke-linejoin="round" clip-path="url(#clipgkips)"/><path d="M92 -4 L85 18 L94 36 L83 58 L91 80 L86 108" fill="none" stroke="#E7FFF3" stroke-width="1.1" opacity="0.38" stroke-linejoin="round" clip-path="url(#clipgkips)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#weavegkips)" clip-path="url(#clipgkips)"/>
+  <path d="M37 13 C31 20 27 32 27 46" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="0.9" clip-path="url(#clipgkips)"/><path d="M63 13 C69 20 73 32 73 46" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="0.9" clip-path="url(#clipgkips)"/><path d="M37 13 C31 20 27 32 27 46" fill="none" stroke="#DAF5EE" stroke-width="0.6" opacity="0.5" transform="translate(-0.8,0)" clip-path="url(#clipgkips)"/><path d="M63 13 C69 20 73 32 73 46" fill="none" stroke="#DAF5EE" stroke-width="0.6" opacity="0.5" transform="translate(0.8,0)" clip-path="url(#clipgkips)"/><path d="M28 88.5 C40 90.5 60 90.5 72 88.5" fill="none" stroke="rgba(0,0,0,0.16)" stroke-width="0.9" clip-path="url(#clipgkips)"/>
+  <path d="M50 15.5 L50 22" fill="none" stroke="rgba(0,0,0,0.22)" stroke-width="0.8" clip-path="url(#clipgkips)"/><circle cx="50" cy="17.5" r="0.6" fill="rgba(0,0,0,0.35)" clip-path="url(#clipgkips)"/><circle cx="50" cy="21.5" r="0.6" fill="rgba(0,0,0,0.35)" clip-path="url(#clipgkips)"/>
+  <path d="M40 8 C43 17 57 17 60 8" fill="none" stroke="#DAF5EE" stroke-width="2.6" stroke-linecap="round" clip-path="url(#clipgkips)"/><path d="M39.3 6.6 C42.6 16.2 57.4 16.2 60.7 6.6" fill="none" stroke="#DAF5EE" stroke-width="1.1" stroke-linecap="round" opacity="0.75" clip-path="url(#clipgkips)"/><path d="M15 71 C17.5 74.3 21 75.3 23.5 73.3" fill="none" stroke="#DAF5EE" stroke-width="2.2" stroke-linecap="round" clip-path="url(#clipgkips)"/><path d="M13.3 69.7 C16 73.8 20.5 75.3 24.5 72.7" fill="none" stroke="#DAF5EE" stroke-width="1" stroke-linecap="round" opacity="0.75" clip-path="url(#clipgkips)"/><path d="M85 71 C82.5 74.3 79 75.3 76.5 73.3" fill="none" stroke="#DAF5EE" stroke-width="2.2" stroke-linecap="round" clip-path="url(#clipgkips)"/><path d="M86.7 69.7 C84 73.8 79.5 75.3 75.5 72.7" fill="none" stroke="#DAF5EE" stroke-width="1" stroke-linecap="round" opacity="0.75" clip-path="url(#clipgkips)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#chestgkips)" clip-path="url(#clipgkips)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#sheengkips)" clip-path="url(#clipgkips)"/>
+  <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C13 52 13 58 14 62 C14 66 15 71 16 74 C19 76 22 76 23 73 C24 68 24 63 25 58 C25 53 26 49 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 49 74 53 75 58 C76 63 76 68 77 73 C78 76 81 76 84 74 C85 71 86 66 86 62 C87 58 87 52 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1.3"/>
+  <path d="M40 8 C43 17 57 17 60 8" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1.3"/>
+</svg>
