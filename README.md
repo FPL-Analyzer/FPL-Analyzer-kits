@@ -8,7 +8,7 @@ FPL Analyzer's kit designs are simple, sponsorless, logoless and eye catching at
 
  <a href="https://x.com/FPL_Analyzer_"><img src="https://img.shields.io/badge/Follow-%40FPL_Analyzer_-000000?style=flat&logo=x&logoColor=white" alt="Follow on X" /></a>
   <a href="https://www.instagram.com/fplanalyzer"><img src="https://img.shields.io/badge/Instagram-%40fplanalyzer-000000?style=flat&logo=x&logoColor=white" alt="Follow on Instagram" /></a>
-  <a https://img.shields.io/badge/MIT-green?style=for-the-badge /></a>
+  <img https://img.shields.io/badge/MIT-green?style=for-the-badge /></a>
 
 <div align="left">
 
