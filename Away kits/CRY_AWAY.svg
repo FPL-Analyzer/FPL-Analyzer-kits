@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Crystal Palace away jersey">
+  <defs>
+<clipPath id="clipawcry"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+<linearGradient id="sheenawcry" x1="0%" y1="0%" x2="60%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+  <stop offset="30%" stop-color="#ffffff" stop-opacity="0.04"/>
+  <stop offset="70%" stop-color="#000000" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+</linearGradient>
+<radialGradient id="chestawcry" cx="50%" cy="28%" r="38%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowawcry" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<pattern id="weaveawcry" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="3.2" stroke="#000000" stroke-width="0.5" opacity="0.05"/>
+</pattern>
+<pattern id="printawcry" width="23" height="29" patternUnits="userSpaceOnUse" patternTransform="rotate(18 50 50)">
+  <g fill="#424752" opacity=".44">
+    <path d="M2 2 C9 4 11 9 13 16 C7 13 4 9 2 2 Z"/>
+    <path d="M20 1 C16 8 16 12 18 19 C23 13 24 7 20 1 Z"/>
+    <path d="M5 20 C11 21 15 25 17 30 C11 29 7 26 5 20 Z"/>
+  </g>
+</pattern></defs>
+  <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowawcry)"/>
+  <rect x="0" y="0" width="100" height="100" fill="#17181A" clip-path="url(#clipawcry)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#printawcry)" clip-path="url(#clipawcry)"/>
+  
+  <rect x="0" y="0" width="100" height="100" fill="url(#weaveawcry)" clip-path="url(#clipawcry)"/>
+  <path d="M37 13 C31 20 27 32 27 46" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="0.9" clip-path="url(#clipawcry)"/><path d="M63 13 C69 20 73 32 73 46" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="0.9" clip-path="url(#clipawcry)"/><path d="M28 88.5 C40 90.5 60 90.5 72 88.5" fill="none" stroke="rgba(0,0,0,0.16)" stroke-width="0.9" clip-path="url(#clipawcry)"/>
+  <path d="M38 13 L34 13 C29 18 27 24 26 30 L42 20 Z" fill="#DC173A" clip-path="url(#clipawcry)"/>
+  <path d="M62 13 L66 13 C71 18 73 24 74 30 L58 20 Z" fill="#0869C9" clip-path="url(#clipawcry)"/>
+  <path d="M27 60 L33 92 L27 98 Z" fill="#DC173A" clip-path="url(#clipawcry)"/>
+  <path d="M73 60 L67 92 L73 98 Z" fill="#0869C9" clip-path="url(#clipawcry)"/>
+  <path d="M40 8 C43 17 57 17 60 8" fill="none" stroke="#0869C9" stroke-width="4.8" clip-path="url(#clipawcry)"/>
+  <path d="M40 8 C43 17 57 17 60 8" fill="none" stroke="#DC173A" stroke-width="2.4" clip-path="url(#clipawcry)"/>
+  <path d="M12 44 C14 47.5 18 49.5 23 49 M88 44 C86 47.5 82 49.5 77 49" fill="none" stroke="#DC173A" stroke-width="2.8" clip-path="url(#clipawcry)"/>
+  <path d="M10.5 45.5 C13 49.5 18 51.5 24 51 M89.5 45.5 C87 49.5 82 51.5 76 51" fill="none" stroke="#0869C9" stroke-width="1.5" clip-path="url(#clipawcry)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#chestawcry)" clip-path="url(#clipawcry)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#sheenawcry)" clip-path="url(#clipawcry)"/>
+  <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1.3"/>
+</svg>
