@@ -6,6 +6,8 @@
 
 FPL Analyzer's kit designs are simple, sponsorless, logoless and eye catching at the same time 
 
+ <a href="https://x.com/FPL_Analyzer_"><img src="https://img.shields.io/badge/Follow-%40FPL_Analyzer_-000000?style=flat&logo=x&logoColor=white" alt="Follow on X" /></a>
+
 <div align="left">
 
 ## Home kits
@@ -25,6 +27,12 @@ Again all 20 clubs have away kits which are some what recognizable, but they are
 <img width="1760" height="1346" alt="image" src="https://github.com/user-attachments/assets/aa8456d3-c233-499b-be02-ad676ecf713e" />
 
 19 out of the 20 PL clubs have third kits (Ipswich's one is a mockup) they are there if you want to have some cool looking kits like Liverpool's or Crystal Palace's third kits
+
+## GKP kits 
+
+<img width="1760" height="1346" alt="image" src="https://github.com/user-attachments/assets/11732632-fb97-4833-ab48-c0cb88571066" />
+
+All 20 PL clubs have GKP kits that you can probably recognize easily, there are also away GKP kits but they come with the normal away kits
 
 
 
