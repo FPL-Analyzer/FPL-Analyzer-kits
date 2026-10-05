@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Liverpool third jersey">
+  <defs>
+    <clipPath id="clipthliv"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+    <!-- Original geometric fragments: colour/pattern cues, not the licensed print. -->
+    <pattern id="fragmentsthliv" width="31" height="34" patternUnits="userSpaceOnUse" patternTransform="rotate(-5 50 50)">
+      <g fill="#77273F">
+        <path d="M1 2 H13 V12 H5 V8 H1 Z"/>
+        <path d="M18 1 H30 L18 13 Z"/>
+        <path d="M0 17 H10 V27 H0 Z"/>
+        <path d="M13 15 H27 V21 H21 L13 29 Z"/>
+        <path d="M24 26 H31 V34 H20 Z"/>
+        <path d="M4 30 H14 V34 H4 Z"/>
+      </g>
+      <path d="M7 3 H13 V9 H7 Z M17 18 H25 V22 H17 Z" fill="#8A304C" opacity=".38"/>
+      <path d="M0 19 L7 17 L0 25 Z M22 1 L30 5 V10 Z" fill="#29292E" opacity=".65"/>
+    </pattern>
+    <pattern id="weavethliv" width="3" height="3" patternUnits="userSpaceOnUse">
+      <circle cx=".8" cy=".8" r=".32" fill="#111116" opacity=".22"/>
+      <circle cx="2.3" cy="2.3" r=".28" fill="#ADADB0" opacity=".06"/>
+    </pattern>
+    <linearGradient id="sheenthliv" x1="0" y1="0" x2="1" y2=".7">
+      <stop stop-color="#FFFFFF" stop-opacity=".12"/>
+      <stop offset=".4" stop-color="#FFFFFF" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#000000" stop-opacity=".18"/>
+    </linearGradient>
+    <radialGradient id="shadowthliv">
+      <stop stop-color="#000000" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowthliv)"/>
+  <g clip-path="url(#clipthliv)">
+    <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="#2C2C31"/>
+    <rect width="100" height="100" fill="url(#fragmentsthliv)" opacity=".88"/>
+    <rect width="100" height="100" fill="url(#weavethliv)"/>
+    <!-- One generic silver shoulder edge, without manufacturer branding. -->
+    <path d="M37 13 C30 13 25 16 20 20 L14 30 M63 13 C70 13 75 16 80 20 L86 30" fill="none" stroke="#D0D0D2" stroke-width="2.5"/>
+    <path d="M37 13 C31 20 27 32 27 46 M63 13 C69 20 73 32 73 46" fill="none" stroke="#17171C" stroke-width=".8" opacity=".65"/>
+    <path d="M40 8 C43 17 57 17 60 8" fill="none" stroke="#1C1C22" stroke-width="4.1" stroke-linecap="round"/>
+    <path d="M40 8 C43 17 57 17 60 8" fill="none" stroke="#424249" stroke-width=".6" opacity=".65"/>
+    <path d="M12 44 C14 47.5 18 49.5 23 49 M88 44 C86 47.5 82 49.5 77 49" fill="none" stroke="#232329" stroke-width="2.1"/>
+    <path d="M28 92 C40 93.5 60 93.5 72 92" fill="none" stroke="#15151A" stroke-width=".8" opacity=".4"/>
+    <rect width="100" height="100" fill="url(#sheenthliv)"/>
+  </g>
+  <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="#131318" stroke-opacity=".6" stroke-width="1.2"/>
+</svg>

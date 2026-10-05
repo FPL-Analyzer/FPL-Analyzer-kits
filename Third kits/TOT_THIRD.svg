@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Tottenham Hotspur third jersey">
+  <defs>
+    <clipPath id="clip-tot-third"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+    <linearGradient id="base-tot-third" x1="0" y1="0" x2="0.72" y2="1">
+      <stop offset="0" stop-color="#4B2795"/><stop offset="0.48" stop-color="#32186F"/><stop offset="1" stop-color="#21104E"/>
+    </linearGradient>
+    <linearGradient id="panel-tot-third" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6A3ABC"/><stop offset="0.56" stop-color="#572CA4"/><stop offset="1" stop-color="#422084"/>
+    </linearGradient>
+    <linearGradient id="sheen-tot-third" x1="0%" y1="0%" x2="62%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.23"/><stop offset="30%" stop-color="#FFFFFF" stop-opacity="0.04"/><stop offset="70%" stop-color="#000000" stop-opacity="0.07"/><stop offset="100%" stop-color="#000000" stop-opacity="0.22"/>
+    </linearGradient>
+    <radialGradient id="chest-tot-third" cx="50%" cy="27%" r="39%"><stop offset="0%" stop-color="#D8CBFF" stop-opacity="0.16"/><stop offset="100%" stop-color="#D8CBFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="shadow-tot-third" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#000000" stop-opacity="0.38"/><stop offset="100%" stop-color="#000000" stop-opacity="0"/></radialGradient>
+    <pattern id="weave-tot-third" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="3.2" stroke="#FFFFFF" stroke-width="0.35" opacity="0.035"/><line x1="1.6" y1="0" x2="1.6" y2="3.2" stroke="#000000" stroke-width="0.35" opacity="0.075"/></pattern>
+    <pattern id="facets-tot-third" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M0 2 L7 0 L4 8 Z M9 3 L16 0 L14 9 Z M2 12 L9 8 L8 16 Z M11 12 L16 10 L15 16 Z" fill="#B69AE8" opacity="0.12"/><path d="M4 8 L9 3 L9 8 Z M8 16 L11 12 L15 16 Z" fill="#160B39" opacity="0.16"/></pattern>
+    <pattern id="stripes-tot-third" width="10" height="100" patternUnits="userSpaceOnUse"><rect width="6.7" height="100" fill="url(#panel-tot-third)"/><rect x="6.7" width="1.4" height="100" fill="#21104F" opacity="0.95"/><rect x="8.15" width="0.52" height="100" fill="#D7CEF1" opacity="0.8"/></pattern>
+  </defs>
+  <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadow-tot-third)"/>
+  <g clip-path="url(#clip-tot-third)">
+    <rect width="100" height="100" fill="url(#base-tot-third)"/>
+    <path d="M0 8 H37 L27 46 Q20 52 10 46 L0 42 Z M63 8 H100 V42 L90 46 Q80 52 73 46 Z" fill="#552BA5"/>
+    <rect x="27" y="10" width="46" height="90" fill="url(#stripes-tot-third)"/>
+    <rect width="100" height="100" fill="url(#facets-tot-third)"/>
+    <rect width="100" height="100" fill="url(#weave-tot-third)"/>
+    <path d="M37 13 C31 20 27 32 27 46 M63 13 C69 20 73 32 73 46" fill="none" stroke="#170A37" stroke-opacity="0.52" stroke-width="1"/>
+    <path d="M37 13 C31 20 27 32 27 46 M63 13 C69 20 73 32 73 46" fill="none" stroke="#CFC2F1" stroke-opacity="0.45" stroke-width="0.48" transform="translate(0 -0.65)"/>
+    <path d="M31 55 Q34 67 32 88 M69 55 Q66 67 68 88" fill="none" stroke="#D3C4F2" stroke-opacity="0.075" stroke-width="1" stroke-linecap="round"/>
+    <path d="M28 89 Q50 92 72 89" fill="none" stroke="#12072D" stroke-opacity="0.58" stroke-width="1.1"/><path d="M28 87.9 Q50 90.6 72 87.9" fill="none" stroke="#A68DD2" stroke-opacity="0.28" stroke-width="0.45"/>
+    <path d="M39.5 7.2 C42.7 16.2 57.3 16.2 60.5 7.2" fill="none" stroke="#F3F1F7" stroke-width="2.8" stroke-linecap="round"/>
+    <path d="M38.2 8.4 L40.3 21.8 L49.3 16.2 L44.4 11 Z M61.8 8.4 L59.7 21.8 L50.7 16.2 L55.6 11 Z" fill="#251052" stroke="#7254AD" stroke-width="0.65" stroke-linejoin="round"/>
+    <path d="M48.9 16.8 Q50 16.2 51.1 16.8 L51.1 28 Q50 29 48.9 28 Z" fill="#291259"/>
+    <path d="M50 18.2 V27" fill="none" stroke="#8F73C2" stroke-width="0.5"/><circle cx="50" cy="21" r="0.62" fill="#C8BCE1"/><circle cx="50" cy="25.3" r="0.62" fill="#C8BCE1"/>
+    <path d="M12.7 44.1 C15.8 47.7 19.1 49.1 22.9 48.2 M87.3 44.1 C84.2 47.7 80.9 49.1 77.1 48.2" fill="none" stroke="#2A145D" stroke-width="2.25" stroke-linecap="round"/>
+    <path d="M13 43.5 C16 46.7 19.2 48 22.5 47.35 M87 43.5 C84 46.7 80.8 48 77.5 47.35" fill="none" stroke="#8E6CC9" stroke-width="0.52" stroke-linecap="round"/>
+    <rect width="100" height="100" fill="url(#chest-tot-third)"/><rect width="100" height="100" fill="url(#sheen-tot-third)"/>
+  </g>
+  <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.25"/>
+</svg>

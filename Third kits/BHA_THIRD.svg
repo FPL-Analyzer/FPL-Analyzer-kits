@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Brighton &amp; Hove Albion third jersey">
+ <defs><clipPath id="clipthbha"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+<linearGradient id="sheenthbha" x1="0%" y1="0%" x2="60%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+  <stop offset="30%" stop-color="#ffffff" stop-opacity="0.04"/>
+  <stop offset="70%" stop-color="#000000" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+</linearGradient>
+<radialGradient id="chestthbha" cx="50%" cy="28%" r="38%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowthbha" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<pattern id="weavethbha" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="3.2" stroke="#000000" stroke-width="0.5" opacity="0.025"/>
+</pattern></defs>
+ <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowthbha)"/>
+ <g clip-path="url(#clipthbha)">
+ <rect width="100" height="100" fill="#00434B"/>
+ <path d="M28 16 Q25 15 22 18 M72 16 Q75 15 78 18" fill="none" stroke="#71CDC6" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/><path d="M12 44 C15 47 19 48.5 24 47.5 M88 44 C85 47 81 48.5 76 47.5" fill="none" stroke="#67DACE" stroke-width="4.3" stroke-linecap="round" stroke-linejoin="round" />
+ <rect width="100" height="100" fill="url(#weavethbha)"/>
+ <path d="M37 13 C31 20 27 32 27 46 M63 13 C69 20 73 32 73 46" fill="none" stroke="#000000" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.13"/><path d="M28 93 Q50 95 72 93" fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.13"/>
+ <path d="M40 8 C41 13 44 15 47 16.5 Q50 20 53 16.5 C56 15 59 13 60 8" fill="none" stroke="#67DACE" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" />
+ <rect width="100" height="100" fill="url(#chestthbha)" opacity="0.65"/>
+ <rect width="100" height="100" fill="url(#sheenthbha)" opacity="0.72"/>
+ </g>
+ <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1.1"/>
+</svg>

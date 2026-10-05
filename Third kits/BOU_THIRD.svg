@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Bournemouth third jersey">
+ <defs><clipPath id="clipthbou"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+<linearGradient id="sheenthbou" x1="0%" y1="0%" x2="60%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+  <stop offset="30%" stop-color="#ffffff" stop-opacity="0.04"/>
+  <stop offset="70%" stop-color="#000000" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+</linearGradient>
+<radialGradient id="chestthbou" cx="50%" cy="28%" r="38%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowthbou" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<pattern id="weavethbou" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="3.2" stroke="#000000" stroke-width="0.5" opacity="0.025"/>
+</pattern><pattern id="arcsthbou" width="20" height="20" patternUnits="userSpaceOnUse"><g color="#C6BFA8" opacity="0.06"><path d="M2 15 A8 8 0 0 1 18 15 M5 15 A5 5 0 0 1 15 15" fill="none" stroke="currentColor" stroke-width="1.2"/></g></pattern></defs>
+ <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowthbou)"/>
+ <g clip-path="url(#clipthbou)">
+ <rect width="100" height="100" fill="#F3F0E2"/>
+ <rect width="100" height="100" fill="url(#arcsthbou)"/>
+ <path d="M27 45 Q32 53 31 69 L30 96 L26 96 Z M73 45 Q68 53 69 69 L70 96 L74 96 Z" fill="#1C1F20"/><path d="M12 44 C15 47 19 48.5 24 47.5 M88 44 C85 47 81 48.5 76 47.5" fill="none" stroke="#151716" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round" /><path d="M12 44 C15 47 19 48.5 24 47.5 M88 44 C85 47 81 48.5 76 47.5" fill="none" stroke="#C9B986" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" />
+ <rect width="100" height="100" fill="url(#weavethbou)"/>
+ <path d="M37 13 C31 20 27 32 27 46 M63 13 C69 20 73 32 73 46" fill="none" stroke="#000000" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.13"/><path d="M28 93 Q50 95 72 93" fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.13"/>
+ <path d="M40 8 C43 17 57 17 60 8" fill="none" stroke="#151716" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /><path d="M38.250 9.357 L38.250 9.357 Q37 9 37.272 10.271 L39.728 21.729 Q40 23 41.115 22.331 L48.885 17.669 Q50 17 49.081 16.081 L44.919 11.919 Q44 11 42.750 10.643 Z" fill="#151716"/><path d="M61.750 9.357 L61.750 9.357 Q63 9 62.728 10.271 L60.272 21.729 Q60 23 58.885 22.331 L51.115 17.669 Q50 17 50.919 16.081 L55.081 11.919 Q56 11 57.250 10.643 Z" fill="#151716"/><path d="M37.7 11 L40.6 21.4 M62.3 11 L59.4 21.4" fill="none" stroke="#C9B986" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round" /><path d="M48.7 19 Q50 18 51.3 19 L51.3 29 Q50 30 48.7 29 Z" fill="#E9E5D6"/><circle cx="50" cy="22" r="0.65" fill="#D8CEAD"/>
+ <rect width="100" height="100" fill="url(#chestthbou)" opacity="0.65"/>
+ <rect width="100" height="100" fill="url(#sheenthbou)" opacity="0.72"/>
+ </g>
+ <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1.1"/>
+</svg>

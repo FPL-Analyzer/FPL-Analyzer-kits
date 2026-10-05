@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Newcastle United third jersey">
+ <defs><clipPath id="clipthnew"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+<linearGradient id="sheenthnew" x1="0%" y1="0%" x2="60%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+  <stop offset="30%" stop-color="#ffffff" stop-opacity="0.04"/>
+  <stop offset="70%" stop-color="#000000" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+</linearGradient>
+<radialGradient id="chestthnew" cx="50%" cy="28%" r="38%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowthnew" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<pattern id="weavethnew" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="3.2" stroke="#000000" stroke-width="0.5" opacity="0.025"/>
+</pattern><pattern id="dotsthnew" width="3" height="3" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="0.32" fill="#72548F" opacity="0.14"/></pattern></defs>
+ <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowthnew)"/>
+ <g clip-path="url(#clipthnew)">
+ <rect width="100" height="100" fill="#C5B2DE"/>
+ <g fill="#9E85BA" opacity="0.17">
+ <path d="M28 30 C48 23 64 26 71 41 C60 37 51 41 47 53 C42 70 29 79 27 91 L27 69 C40 62 36 42 28 30 Z"/>
+ <path d="M68 49 C53 43 51 69 42 83 C55 77 65 72 73 77 L73 62 Q68 59 68 49 Z"/>
+ </g><rect width="100" height="100" fill="url(#dotsthnew)"/><path d="M39 12 L24 16 Q19 19 16 25 M61 12 L76 16 Q81 19 84 25" fill="none" stroke="#26203F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" /><path d="M12 44 C15 47 19 48.5 24 47.5 M88 44 C85 47 81 48.5 76 47.5" fill="none" stroke="#26203F" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round" /><path d="M12 44 C15 47 19 48.5 24 47.5 M88 44 C85 47 81 48.5 76 47.5" fill="none" stroke="#D6C5EB" stroke-width="0.65" stroke-linecap="round" stroke-linejoin="round" transform="translate(0,1.25)"/>
+ <rect width="100" height="100" fill="url(#weavethnew)"/>
+ <path d="M37 13 C31 20 27 32 27 46 M63 13 C69 20 73 32 73 46" fill="none" stroke="#000000" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.13"/><path d="M28 93 Q50 95 72 93" fill="none" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.13"/>
+ <path d="M40 9 C42 12 45 15 48 17 Q50 18.5 52 17 C55 15 58 12 60 9" fill="none" stroke="#26203F" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" /><path d="M40 9 C42 12 45 15 48 17 Q50 18.5 52 17 C55 15 58 12 60 9" fill="none" stroke="#E0D1ED" stroke-width="0.55" stroke-linecap="round" stroke-linejoin="round" transform="translate(0,1.35)"/>
+ <rect width="100" height="100" fill="url(#chestthnew)" opacity="0.65"/>
+ <rect width="100" height="100" fill="url(#sheenthnew)" opacity="0.72"/>
+ </g>
+ <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1.1"/>
+</svg>
