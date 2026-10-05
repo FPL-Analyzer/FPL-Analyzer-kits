@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Hull City jersey">
+  <defs>
+<clipPath id="cliphul"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+<linearGradient id="sheenhul" x1="0%" y1="0%" x2="60%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+  <stop offset="30%" stop-color="#ffffff" stop-opacity="0.04"/>
+  <stop offset="70%" stop-color="#000000" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+</linearGradient>
+<radialGradient id="chesthul" cx="50%" cy="28%" r="38%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowhul" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<pattern id="weavehul" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="3.2" stroke="#000000" stroke-width="0.5" opacity="0.05"/>
+</pattern>
+</defs>
+  <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowhul)"/>
+  <rect width="100" height="100" fill="#F59B00" clip-path="url(#cliphul)"/>
+  <rect x="40" width="20" height="100" fill="#171719" clip-path="url(#cliphul)"/>
+  <path d="M27 42 H31 V100 H27 Z M69 42 H73 V100 H69 Z" fill="#171719" clip-path="url(#cliphul)"/>
+  <path d="M37 13 C30 13 25 16 20 20 L14 30 M63 13 C70 13 75 16 80 20 L86 30" fill="none" stroke="#19191B" stroke-width="5.3" clip-path="url(#cliphul)"/>
+  
+  
+  <rect x="0" y="0" width="100" height="100" fill="url(#weavehul)" clip-path="url(#cliphul)"/>
+  <path d="M37 13 C31 20 27 32 27 46" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="0.9" clip-path="url(#cliphul)"/><path d="M63 13 C69 20 73 32 73 46" fill="none" stroke="rgba(0,0,0,0.18)" stroke-width="0.9" clip-path="url(#cliphul)"/><path d="M37 13 C31 20 27 32 27 46" fill="none" stroke="#FFFFFF" stroke-width="0.6" opacity="0.55" transform="translate(-0.8,0)" clip-path="url(#cliphul)"/><path d="M63 13 C69 20 73 32 73 46" fill="none" stroke="#FFFFFF" stroke-width="0.6" opacity="0.55" transform="translate(0.8,0)" clip-path="url(#cliphul)"/><path d="M28 88.5 C40 90.5 60 90.5 72 88.5" fill="none" stroke="rgba(0,0,0,0.16)" stroke-width="0.9" clip-path="url(#cliphul)"/>
+
+  <path d="M12 44 C14 47.5 18 49.5 23 49 M88 44 C86 47.5 82 49.5 77 49" fill="none" stroke="#F5F4F0" stroke-width="3.4" clip-path="url(#cliphul)"/>
+  <path d="M40 7 C43 15 57 15 60 7" fill="none" stroke="#171719" stroke-width="3.5" clip-path="url(#cliphul)"/>
+  <path d="M38.8 7 L47.8 13.9 L44.2 20 L37 12.5 Z M61.2 7 L52.2 13.9 L55.8 20 L63 12.5 Z" fill="#F7F6F2" stroke="#D7D6D0" stroke-width=".55" clip-path="url(#cliphul)"/>
+  <path d="M50 14 V22" fill="none" stroke="#F0EFEA" stroke-width="1.3" clip-path="url(#cliphul)"/>
+  <circle cx="50" cy="18" r=".55" fill="#B8B7B2" clip-path="url(#cliphul)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#chesthul)" clip-path="url(#cliphul)"/>
+  <rect x="0" y="0" width="100" height="100" fill="url(#sheenhul)" clip-path="url(#cliphul)"/>
+  <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="1.3"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 106" width="240" height="240" role="img" aria-label="Coventry City jersey">
+  <defs>
+<clipPath id="clipcov"><path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z"/></clipPath>
+<linearGradient id="sheencov" x1="0%" y1="0%" x2="60%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24"/>
+  <stop offset="30%" stop-color="#ffffff" stop-opacity="0.04"/>
+  <stop offset="70%" stop-color="#000000" stop-opacity="0.06"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.20"/>
+</linearGradient>
+<radialGradient id="chestcov" cx="50%" cy="28%" r="38%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="shadowcov" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+</radialGradient>
+<pattern id="weavecov" width="3.2" height="3.2" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="3.2" stroke="#000000" stroke-width="0.5" opacity="0.025"/>
+</pattern>
+<pattern id="mottleCov" width="13" height="15" patternUnits="userSpaceOnUse"><path d="M1 1 L5 0 L6 3 L4 5 L0 4 Z M8 6 L12 5 L13 9 L10 11 L7 9 Z M1 10 L4 8 L6 12 L4 15 L0 14 Z" fill="#176DA4" opacity="0.28"/><path d="M8 0 L11 2 L9 4 L7 3 Z M5 6 L7 7 L6 9 L4 8 Z" fill="#A4DFFF" opacity="0.4"/></pattern><pattern id="stripeCov" x="46" width="15.2" height="100" patternUnits="userSpaceOnUse"><rect width="15.2" height="100" fill="#F8FAFF"/><rect width="7.8" height="100" fill="#35A9DF"/><rect width="7.8" height="100" fill="url(#mottleCov)"/><path d="M0.2 0 V100 M7.8 0 V100" stroke="#1B3850" stroke-width="0.45"/></pattern>
+  </defs>
+  <ellipse cx="50" cy="99" rx="34" ry="5" fill="url(#shadowcov)"/>
+  <g clip-path="url(#clipcov)">
+    <rect width="100" height="100" fill="url(#stripeCov)"/>
+    <rect width="100" height="100" fill="url(#weavecov)"/>
+    <path d="M37 13 C31 20 27 32 27 46 M63 13 C69 20 73 32 73 46 M28 93 C40 94 60 94 72 93" fill="none" stroke="#000000" stroke-opacity="0.1" stroke-width="0.6"/>
+    <path d="M40 8 Q40 13 50 17 Q60 13 60 8" fill="none" stroke="#142238" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect width="100" height="100" fill="url(#chestcov)"/>
+    <rect width="100" height="100" fill="url(#sheencov)"/>
+  </g>
+  <path d="M50 6 C44 6 40 9 37 13 C32 14 28 13 24 15 C18 19 13 24 14 30 C13 36 12 42 13 46 C16 49 19 50 22 49 C24 48 26 47 27 46 L27 90 C26.7 94 29.5 97 33.5 97 L66.5 97 C70.5 97 73.3 94 73 90 L73 46 C74 47 76 48 78 49 C81 50 84 49 87 46 C88 42 87 36 86 30 C87 24 82 19 76 15 C72 13 68 14 63 13 C60 9 56 6 50 6 Z" fill="none" stroke="#000000" stroke-opacity="0.3" stroke-width="1.3"/>
+</svg>
